@@ -3,11 +3,15 @@ marp: true
 ---
 
 
+<center>
+
 # XR Kaigi Hub in 大阪に行ってきた
-<center><img src="IMG_1417.jpg" width="35%" /></center>
+
+<img src="IMG_1417.jpg" width="35%" />
+
+</center>
 
 
----
 
 # [XR Kaigi](https://xrkaigi2025.studio.site/)とは
 <center><img src="xrkaigi.jpg" width="600" style="display:block;margin:auto" /></center>
